@@ -35,7 +35,7 @@ header {
 }
 #banner {
 	background-color: blue;
-	background-image: url("../Image/8.jpeg");
+	background-image: url("../Image/1.jpeg");
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -83,7 +83,7 @@ header {
 	width: 100%;
 	min-height: 200px;
 }
-.from-group .btn {
+.from-group .input[type=submit] {
 	padding:15px 20px;
 	background-color: #1abc9c;
 	color: #fff;
